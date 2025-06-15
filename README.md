@@ -1,3 +1,8 @@
+# Importante: por cambios en el funcionamiento de la api interna de Wallapop el script actualmente NO funciona
+---
+---
+---
+
 # Notificador nuevos productos en Wallapop
 Programa la ejecución periódica de este script y recibe vía Telegram las notificaciones cuando se incorporen nuevos productos en las URL monitorizadas.
 
